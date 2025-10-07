@@ -1,4 +1,5 @@
-# FTB StoneBlock3 questbook Japanise For StoneBlock3 ver.1.11.5
+# FTB StoneBlock3 クエストブック日本語化
+FTB StoneBlock3 questbook Japanise For StoneBlock3 ver.1.11.5
 StoneBlock3のFTBquestbookを日本語に翻訳したファイルです。
 ## 導入方法
 StoneBlock3の入ってる場所を開いて
